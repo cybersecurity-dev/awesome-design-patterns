@@ -12,7 +12,7 @@
 
 ## 📖 Contents
 - [Creational patterns](#creational-patterns)
-    - [Scientific Research](#scientific-research)
+    - [Singleton](#singleton)
     - [Factory Method](#factory-method)
 - [Structural Patterns](#structural-patterns)
     - [Adapter](#adapter)
