@@ -10,23 +10,45 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+## 📖 Contents
+- [Creational patterns](#creational-patterns)
+    - [Scientific Research](#scientific-research)
+    - [Factory Method](#factory-method)
+- [Structural Patterns](#structural-patterns)
+    - [Adapter](#adapter)
+    - [Proxy](#proxy)
+- [Behavioral Patterns](#behavioral-patterns)
+    - [Chain of Responsibility](#chain-of-responsibility)
+    - [Observer](#observer)
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
 
-
-## Creational patterns
+## Creational Patterns
 
 ### Singleton
 
 ### Factory Method
 
-## Structural patterns
+## Structural Patterns
 
 ### Adapter
 
 ### Proxy
 
-## Behavioral patterns
+## Behavioral Patterns
 
 ### Chain of Responsibility
 
 ### Observer
 
+### My Other Awesome Lists
+You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
+
+### Contributing
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-metamorphic-malware/graphs/contributors)!
+
+[🔼 Back to top](#awesome-design-patterns-)
