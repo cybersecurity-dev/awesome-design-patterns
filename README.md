@@ -1,5 +1,10 @@
-# Awesome Design Patterns [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiXaQ45g-2breegZQFt2pieR&si=Z2hP37bG5ghZdmSl) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/DesignPatterns/)
+<div align="center">
+
+# **`Awesome`** Design Patterns [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+</div>
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiXaQ45g-2breegZQFt2pieR&si=Z2hP37bG5ghZdmSl)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/DesignPatterns/)
 
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
