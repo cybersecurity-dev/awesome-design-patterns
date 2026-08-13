@@ -1,6 +1,6 @@
 <div align="center">
 
-# **`Awesome`** Design Patterns [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# **`Awesome`** [Design](https://wikipedia.org/wiki/Software_design_pattern) [Patterns](https://refactoring.guru/design-patterns) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiXaQ45g-2breegZQFt2pieR&si=Z2hP37bG5ghZdmSl)
@@ -56,5 +56,8 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-design-patterns/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-design-patterns-)
